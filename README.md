@@ -119,4 +119,4 @@ Admin dashboard for managing application data.
 
 ## 📫 Contact
 - 🌐 Website: https://tsue.uz
-- 💬 Telegram: @username
+- 💬 Telegram: @Sherali_Toshniyozov
