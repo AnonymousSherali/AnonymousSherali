@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sherali
 
-💼 Middle Software Developer (Backend-focused)  
+💼 Software Developer  
 📍 Tashkent, Uzbekistan  
 
 ---
