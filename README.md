@@ -78,7 +78,7 @@ Features:
 
 ## 📈 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnonymousSherali\&show_icons=true\&theme=tokyonight)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=AnonymousSherali.AnonymousSherali)
 
 ![](https://komarev.com/ghpvc/?username=AnonymousSherali&color=blue&style=flat)
 
