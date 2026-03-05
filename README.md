@@ -1,122 +1,97 @@
 # 👋 Hi, I'm Sherali
 
-💼 Software Developer  
-📍 Tashkent, Uzbekistan  
+💻 **Software Developer (Backend Focused)**
+📍 Tashkent, Uzbekistan
+
+Backend developer specializing in **Laravel** and **Django**, experienced in building scalable APIs and full-stack applications using **Vue.js**.
 
 ---
 
-## 🧑‍💻 Professional Summary
-Software Developer with strong backend experience in building secure, scalable, and maintainable web applications.
-Specialized in backend development using Laravel and Django, with solid frontend integration using Vue.js.
-Experienced in REST API design, database architecture, authentication systems, and full-stack application development.
-
----
-
-## 🛠 Tech Stack
+## 🚀 Tech Stack
 
 ### Backend
-- **PHP:** Laravel
-- **Python:** Django, Django REST Framework
-- REST API design
-- Authentication & Authorization
-- MVC / MVT architecture
-- Background tasks & queues (basic)
+
+<p>
+<img src="https://skillicons.dev/icons?i=php,laravel,python,django" />
+</p>
 
 ### Frontend
-- **JavaScript (ES6+)**
-- **Vue.js**
-- HTML5, CSS3
-- Responsive & component-based UI
 
-### Databases
-- MySQL
-- PostgreSQL
-- SQLite
-- Database schema design & optimization
+<p>
+<img src="https://skillicons.dev/icons?i=vue,js,html,css" />
+</p>
 
-### Tools & Practices
-- Git & GitHub
-- Docker (basic)
-- Linux fundamentals
-- RESTful architecture
-- Clean Code
-- SOLID principles
-- Basic security practices (JWT, CSRF, validation)
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
+</p>
 
 ---
 
-## 📌 Key Projects
+## 🧩 Key Projects
 
-### 🧩 Backend API Platform (Django / Laravel)
-**Description:**  
-Scalable REST API for web applications.
+### Backend API Platform
 
-**Features:**
-- User authentication (JWT / session-based)
-- Role-based access control
-- CRUD operations
-- API validation & error handling
-- Clean architecture
+Scalable REST API built using **Django REST Framework / Laravel**.
 
-**Tech:** Django REST Framework / Laravel  
-📂 Source Code
+Features:
+
+* JWT Authentication
+* Role-based access control
+* Clean architecture
+* API validation & error handling
 
 ---
 
-### 🛒 Full-Stack Web Application
-**Description:**  
-Complete web application with backend API and frontend interface.
+### Full-Stack Web Application
 
-**Features:**
-- Backend API with Laravel / Django
-- Vue.js frontend consuming REST API
-- Authentication & authorization
-- Database-driven architecture
-- Responsive UI
+Modern web application with **Laravel/Django backend** and **Vue.js frontend**.
 
-**Tech:** Laravel / Django + Vue.js  
-🔗 Live Demo  
-📂 Source Code
+Features:
+
+* REST API integration
+* Authentication & authorization
+* Responsive UI
+* Database-driven architecture
 
 ---
 
-### 📊 Admin Panel
-**Description:**  
-Admin dashboard for managing application data.
+### Admin Dashboard
 
-**Features:**
-- Secure admin authentication
-- Data management (users, content)
-- Permissions & roles
-- Dashboard statistics
+Admin panel for managing application data and analytics.
 
-📂 Source Code
+Features:
+
+* Role & permission system
+* Dashboard statistics
+* Secure authentication
 
 ---
 
-## 🧩 Architecture & Practices
-- Layered backend architecture (Controllers, Services, Repositories)
-- RESTful API standards
-- Separation of backend and frontend
-- Environment-based configuration
-- Error handling and logging
-- Database migrations and seeders
+## 📈 GitHub Analytics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnonymousSherali\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnonymousSherali\&layout=compact\&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=AnonymousSherali\&theme=tokyonight)
 
 ---
 
-## 🚀 What I’m Currently Working On
-- Advanced backend architecture
-- API performance optimization
-- Dockerizing Laravel & Django projects
-- Improving Vue.js frontend integration
+## 🐍 Contribution Snake
 
----
-
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnonymousSherali&show_icons=true&theme=tokyonight)
+![snake gif](https://github.com/AnonymousSherali/AnonymousSherali/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
 ## 📫 Contact
-- 🌐 Website: https://tsue.uz
-- 💬 Telegram: @Sherali_Toshniyozov
+
+🌐 Website: https://tsue.uz
+💬 Telegram: @Sherali_Toshniyozov
