@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sherali
 
-💻 **Software Developer (Backend Focused)**
+💻 **Software Developer**
 📍 Tashkent, Uzbekistan
 
 Backend developer specializing in **Laravel** and **Django**, experienced in building scalable APIs and full-stack applications using **Vue.js**.
