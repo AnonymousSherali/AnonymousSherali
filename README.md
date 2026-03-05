@@ -86,12 +86,6 @@ Features:
 
 ---
 
-## 🐍 Contribution Snake
-
-![snake gif](https://github.com/AnonymousSherali/AnonymousSherali/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ## 📫 Contact
 
 🌐 Website: https://tsue.uz
