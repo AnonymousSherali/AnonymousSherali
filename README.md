@@ -80,7 +80,7 @@ Features:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnonymousSherali\&show_icons=true\&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnonymousSherali\&layout=compact\&theme=tokyonight)
+![](https://komarev.com/ghpvc/?username=AnonymousSherali&color=blue&style=flat)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=AnonymousSherali\&theme=tokyonight)
 
