@@ -1,3 +1,4 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Sherali%20|%20Software%20Developer&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" />
 # 👋 Hi, I'm Sherali
 
 💻 **Software Developer**
